@@ -1,23 +1,21 @@
-IEEE Hackathon Fall 2012 Node.js Template
+IEEE Hackathon Fall 2012 Ruby/Sinatra Template
 =========================================
 
 Stack Details
 -------------
 
-- Server: Node
-- Web Framework: Express
-- Template Engine: Whiskers
-- Database Library: SQLite3
+- Server: Sinatra
+- Web Framework: Sinatra
+- Template Engine: ERB
+- Database Library: DataMapper/SQLite3
 - Javascript Client Library: JQuery
 - CSS Library: Twitter Bootstrap
 
 Instructions
 ------------
 
-1. Download Node.js
-2. Install Node.js
+1. Install Ruby
 3. Navigate to the directory with the source files and
-run `npm install`
-4. Run `node app.js` in order to run the server
-5. Navigate your browser to [http://localhost:3000](http://localhost:3000) in order to view
+run `ruby app.rb` in order to run the server
+4. Navigate your browser to [http://localhost:4567](http://localhost:4567) in order to view
 the page.
